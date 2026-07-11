@@ -1,0 +1,1 @@
+# easy-starter-automation-service
